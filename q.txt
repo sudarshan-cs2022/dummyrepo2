@@ -1,3 +1,7 @@
 ff
 dddddd
+<<<<<<< HEAD
 ffff
+=======
+gnnbnnfnfnf
+>>>>>>> d454034578e2bda7a9be344143cbbc026b34a4d2
